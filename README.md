@@ -12,6 +12,8 @@ iwaku下にジャンル分けディレクトリを作成。
 ```
 
 ## 構成
+
+```
 iwaku
   |-book
   |-english
@@ -23,7 +25,7 @@ iwaku
   |-tips
   |-tool
   |-README.md(このファイル)
-  
+```
 
 ## 翻訳利用
 [google翻訳](https://translate.google.co.jp/?hl=ja)
